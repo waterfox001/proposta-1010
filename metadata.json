@@ -1,0 +1,8 @@
+{
+  "name": "Sistema Operacional de Locação Infantil",
+  "description": "Sistema completo e profissional de gestão operacional de locação de produtos infantis: estoque unitário, reservas, devoluções, higienização, manutenção e financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
